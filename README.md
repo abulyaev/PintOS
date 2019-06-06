@@ -1,3 +1,0 @@
-# PintOS
-
-labi
